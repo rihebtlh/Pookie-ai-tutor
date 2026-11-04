@@ -6,7 +6,8 @@ AI-powered tutoring app that helps kids learn through a chatbot, spelling correc
 
 ## Demo
 
-![App screenshot](screenshots/Thumbnail.png,screenshots/Thum2.png)
+![Thumbnail](screenshots/Thumbnail.png)
+![Screen 2](screenshots/Thum2.png)
 
 - Live demo: https://your-link-here
 - Demo video: https://your-link-here
