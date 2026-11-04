@@ -50,8 +50,8 @@ pookie-ai-tutor-app/
 
 ## Author
 
-Riheb Talhi: Master's student in Artificial Intelligence and its Applications, USTO-MB.
-Narimene Derkaoui: Master's student in Artificial Intelligence and its Applications, USTO-MB.
+- Riheb Talhi: Master's student in Artificial Intelligence and its Applications, USTO-MB.
+- Narimene Derkaoui: Master's student in Artificial Intelligence and its Applications, USTO-MB.
 
 ## License
 
