@@ -6,7 +6,7 @@ AI-powered tutoring app that helps kids learn English through a chatbot, spellin
 
 ## Demo
 
-![App screenshot](screenshots/home.png)
+![App screenshot](screenshots/Thumbnail.png)
 
 - Live demo: https://your-link-here
 - Demo video: https://your-link-here
