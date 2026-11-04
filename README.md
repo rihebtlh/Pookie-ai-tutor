@@ -1,12 +1,12 @@
 # Pookie AI Tutor App
 
-AI-powered tutoring app that helps kids learn English through a chatbot, spelling corrector, pronunciation corrector and quiz.
+AI-powered tutoring app that helps kids learn through a chatbot, spelling corrector, pronunciation corrector and quiz.
 
 > This repository contains the demo and documentation of the app.
 
 ## Demo
 
-![App screenshot](screenshots/Thumbnail.png)
+![App screenshot](screenshots/Thumbnail.png,screenshots/Thum2.png)
 
 - Live demo: https://your-link-here
 - Demo video: https://your-link-here
