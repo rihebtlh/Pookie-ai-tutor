@@ -1,6 +1,6 @@
 # Pookie AI Tutor App
 
-AI-powered tutoring app that helps kids learn through a chatbot, spelling corrector, pronunciation corrector and quiz.
+AI-powered educational mobile app that helps children aged **6–12** learn languages through an AI chatbot, grammar correction, pronunciation practice, and interactive quizzes. The app supports both **English and Arabic** and provides a friendly, child-oriented learning environment.
 
 > This repository contains the demo and documentation of the app.
 
@@ -15,10 +15,13 @@ AI-powered tutoring app that helps kids learn through a chatbot, spelling correc
 
 ## Features
 
-- **Chatbot**: kids practice English by chatting with a friendly AI tutor.
-- **Spelling corrector**: detects spelling mistakes and explains the correction in a simple way.
-- **Pronunciation corrector**: listens to the child's speech and gives feedback on how to say words correctly.
-- **Quiz**: fun questions to test and reinforce what the child has learned.
+- **Ask Pookie (AI Chatbot):** Kids practice languages by chatting with a friendly AI tutor.
+- **Pookie Pen (Grammar Correction):** Analyses written text, detects errors, and provides simple, child-friendly corrections.
+- **Talk with Pookie (Pronunciation Assistant):** Evaluates children's speech and provides pronunciation feedback.
+- **Quizzy Pookie (Interactive Quizzes):** Fun questions help children test and reinforce what they have learned.
+- **Bilingual learning:** Supports both English and Arabic.
+- **Child-friendly interface:** Includes large icons, readable fonts, playful visual elements, and theme options (pink/purple and blue).
+- **Progress tracking:** Stores quiz sessions and scores to help follow learning progress.
 
 ## How it works
 
@@ -28,11 +31,35 @@ AI-powered tutoring app that helps kids learn through a chatbot, spelling correc
 
 ## Tech stack
 
-- Frontend: _(e.g. HTML/CSS/JavaScript, React)_
-- Backend: _(e.g. Python, Flask, FastAPI)_
-- AI / NLP: _(e.g. LLM API, speech recognition model)_
+| Area | Technology / Purpose |
+|---|---|
+| Mobile application | **Flutter** — cross-platform mobile app development |
+| Authentication | **Firebase Authentication** |
+| Database | **Cloud Firestore** |
+| Chatbot and text correction | **Google Gemini APIs** |
+| Pronunciation evaluation | **Hugging Face APIs** |
+| UI/UX design | **Figma** |
+| Version control | **Git and GitHub** |
+| Diagrams | **Draw.io** |
+
+## Application design
+
+The application design documentation includes the use case diagram, UI/UX mockups, client-server communication sequence diagram, and database design.
+
+- [Use Case Diagram](docs/diagrams/use-case-diagram.png)
+- [UI/UX Mockups](docs/ui-ux-mockups/)
+- [Client-Server Communication (Sequence Diagram)](docs/diagrams/sequence-diagram.png)
+- [Database Design (MCD / Class Diagram)](docs/diagrams/database-design.png)
+
+Update these relative paths if the diagrams or mockups are saved under different filenames or folders.
+
+## Data management
+
+The database structure and entity relationships are documented in the [Database Design (MCD / Class Diagram)](docs/diagrams/database-design.png).
 
 ## Getting started
+
+Before running the project, make sure you have Flutter and Dart installed and that you have access to the Firebase project configuration and the required Gemini and Hugging Face API credentials. Keep private API keys and credentials out of the repository.
 
 ```bash
 git clone https://github.com/your-username/pookie-ai-tutor-app.git
