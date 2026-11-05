@@ -48,7 +48,7 @@ The application design documentation includes the use case diagram, UI/UX mockup
 
 - [Use Case Diagram](docs/diagrams/use_case_diagram.jpg)
 - [Client-Server Communication (Sequence Diagram)](docs/diagrams/sequence_diagram.jpg)
-- [Database Design (MCD / Class Diagram)](docs/diagrams/database_design_diagram.jpg)
+- [Database Design (MCD / Class Diagram)](docs/diagrams/database_design_diagram.png)
 
 Update these relative paths if the diagrams or mockups are saved under different filenames or folders.
 
