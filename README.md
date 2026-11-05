@@ -54,7 +54,7 @@ Update these relative paths if the diagrams or mockups are saved under different
 
 ## Data management
 
-The database structure and entity relationships are documented in the [Database Design (MCD / Class Diagram)](docs/diagrams/database-design.png).
+The database structure and entity relationships are documented in the [Database Design (MCD / Class Diagram)](docs/diagrams/database_design_diagram.jpg)
 
 ## Getting started
 
