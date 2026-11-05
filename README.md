@@ -46,9 +46,9 @@ AI-powered educational mobile app that helps children aged **6–12** learn lang
 
 The application design documentation includes the use case diagram, UI/UX mockups, client-server communication sequence diagram, and database design.
 
-- [Use Case Diagram](docs/diagrams/use-case-diagram.png)
-- [Client-Server Communication (Sequence Diagram)](docs/diagrams/sequence-diagram.png)
-- [Database Design (MCD / Class Diagram)](docs/diagrams/database-design.png)
+- [Use Case Diagram](docs/diagrams/use_case_diagram.jpg)
+- [Client-Server Communication (Sequence Diagram)](docs/diagrams/sequence_diagram.jpg)
+- [Database Design (MCD / Class Diagram)](docs/diagrams/database_design_diagram.jpg)
 
 Update these relative paths if the diagrams or mockups are saved under different filenames or folders.
 
